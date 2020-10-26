@@ -1,3 +1,9 @@
 # ford subdirectories
 ford/2017*
 ford/sample
+
+# ignore compressed files
+*.tar*
+
+# audi data
+audi/camera_lidar

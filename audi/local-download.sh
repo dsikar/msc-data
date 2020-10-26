@@ -8,6 +8,8 @@
 # Gaimersheim
 # Bus Signals
 wget https://aev-autonomous-driving-dataset.s3.eu-central-1.amazonaws.com/camera_lidar-20180810150607_bus_signals.tar;
+tar xvf camera_lidar-20180810150607_bus_signals.tar;
+rm camera_lidar-20180810150607_bus_signals.tar;
 # Camera – Front Center
 wget https://aev-autonomous-driving-dataset.s3.eu-central-1.amazonaws.com/camera_lidar-20180810150607_camera_frontcenter.tar;
 
