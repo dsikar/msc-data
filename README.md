@@ -11,3 +11,14 @@ $ ln -s ~/git/msc-dissertation-data ~/git/sdsandbox/datasets
 **mechanical-turk** directory is for random image labelling, to locate rainy images within dataset.  
 A few datasets are labelled by providers as "cloudy", so the most likely to contain rain.  
 Otherwise, further processing is required to generate synthetic rain.  
+
+To quote this work:
+```
+@online{Sikar2020,
+  title={MSc Data Science Datasets},
+  author={Daniel Sikar},
+  year={2020},
+  publisher={GitHub},
+  url={https://github.com/dsikar/msc-data},
+} 
+```
